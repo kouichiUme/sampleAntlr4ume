@@ -1,0 +1,2 @@
+mvn -B archetype:generate -DarchetypeGroupId=nagoya.sroi -DgroupId=nagoya.sroi -DartifactId=sampleAntlr -DarchetypeArtifactId=maven-archetype-quickstart 
+mvn -B archetype:generate -DgroupId=nagoya.code4 -DartifactId=lml -DarchetypeArtifactId=maven-archetype-quickstart 
